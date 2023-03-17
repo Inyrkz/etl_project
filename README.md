@@ -1,7 +1,8 @@
 ## Extract, Transform & Load (ETL)
 
 **Scenario**
-In my latest project, I assumed the role of a data engineer working for an international financial analysis company. My hypothetical company tracks stock prices, commodities, forex rates, inflation rates.  
+
+I assumed the role of a data engineer working for an international financial analysis company. My hypothetical company tracks stock prices, commodities, forex rates, inflation rates.  
 My job was to extract financial data from various sources like websites, APIs and files provided by various financial analysis firms. After I collected the data, I extracted the data of interest to my hypothetical company and transformed it based on the requirements given to me. After the transformation was completed, I loaded that data into a file/database.
 
 **Steps**
